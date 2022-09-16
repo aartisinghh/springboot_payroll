@@ -32,7 +32,6 @@ public class standAloneControllerTests {
 	@Autowired
 	MockMvc mockMvc;
 
-	//not working 
 	
 	@Test
 	public void testfindAll() throws Exception {
